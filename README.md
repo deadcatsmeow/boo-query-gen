@@ -3,7 +3,7 @@ Creates a Boolean search string based on multiple lists of synonyms
 Written by Ian Chilvers, University of Reading Library
 
 ####
-To see the tool in action visit: https://uorlibrary.github.io/boo-query-gen/demo.html
+To see the tool in action visit: https://deadcatsmeow.github.io/boo-query-gen/demo.html
 
 Please don't link to this page for extended use.
 
